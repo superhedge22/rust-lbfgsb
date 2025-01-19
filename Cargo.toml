@@ -12,8 +12,8 @@ readme = "README.md"
 anyhow = "1"
 
 [build-dependencies]
-cc = "1"
-bindgen = "0.65.1"
+cc = "1.2.10"
+bindgen = "0.71.1"
 
 [dev-dependencies]
 vecfx = { version = "0.1" }
